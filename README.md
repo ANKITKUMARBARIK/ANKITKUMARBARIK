@@ -1,5 +1,6 @@
+<br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
+<br>
 <h1>💫 About Me :</h1>
 
 **🔭 I’m currently working on :**<br>Ready to bring your dream product to life in the virtual world.
