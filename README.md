@@ -28,7 +28,7 @@
 
 💬 Ask me about anything in **JS, Node, or college-level Java**
 
-📫 Reach me at: `barikankitkumar2@gmail.com`
+📫 Reach me at: `ankitbarik.dev@gmail.com`
 
 ---
 
